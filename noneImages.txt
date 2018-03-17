@@ -1,0 +1,6 @@
+../Train/BabyPants/BabyPants_1.jpg
+../Train/BabyHat/BabyHat_1.jpg
+../Train/BabyBibs/BabyBibs_1.jpg
+../Train/BabyShirt/BabyShirt_1.jpg
+../Train/PackageFart/PackageFart_1.jpg
+../Train/womendollshoes/womendollshoes_1.jpg
